@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/pedestrian/Downloads/MegviiFaceppv2_Android_0.5.2/MegviiFacepp-Android-SDK-0.5.2-CN/Android-Demo/Android-Demo/faceppdemo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/pedestrian/Downloads/MegviiFaceppv2_Android_0.5.2/MegviiFacepp-Android-SDK-0.5.2-CN/Android-Demo/Android-Demo/faceppdemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b22462d6a117f05f5e8374623c675e4327e895d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/pedestrian/Downloads/MegviiFaceppv2_Android_0.5.2/MegviiFacepp-Android-SDK-0.5.2-CN/Android-Demo/Android-Demo/faceppdemo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b16456add9c1f6d201c97ff59210dfed13efcfe7">
+        <dex dex="/home/pedestrian/Downloads/MegviiFaceppv2_Android_0.5.2/MegviiFacepp-Android-SDK-0.5.2-CN/Android-Demo/Android-Demo/faceppdemo/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ce7794c2e96c1c7d87e3257b8cc21df911d1162c/classes.dex" />
+    </item>
+
+</items>
